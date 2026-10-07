@@ -1,0 +1,8 @@
+text
+__pycache__/
+*.pyc
+
+../.venv/
+
+outputs/
+.idea/
